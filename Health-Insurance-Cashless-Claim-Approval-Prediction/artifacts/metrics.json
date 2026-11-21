@@ -1,0 +1,10 @@
+{
+  "selected_model": "RandomForest",
+  "test_MAE": 3236.84274855241,
+  "test_RMSE": 4659.85280860374,
+  "test_R2": 0.934031419793611,
+  "train_rows": 3923,
+  "test_rows": 981,
+  "feature_count_before_encoding": 46,
+  "test_split": "chronological 80/20 by claim_submitted_date"
+}
